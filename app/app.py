@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 #Fondo con imagen (enlace público)
-background_url = "https://upload.wikimedia.org/wikipedia/commons/f/f1/Amsterdam_Canals_and_Bridges.jpg"
+background_url = "https://raw.githubusercontent.com/paulabeltran2101/Proyecto-predicci-n-casas-Amsterdam/main/images/amsterdam.jpg"
 
 #CSS para fondo y estilo general
 page_background = f"""
