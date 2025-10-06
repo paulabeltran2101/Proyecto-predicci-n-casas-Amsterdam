@@ -28,7 +28,7 @@ page_background = f"""
 }}
 
 div.block-container {{
-    background: rgba(255, 255, 255, 0.85);
+    background: rgba(255, 255, 255, 0.95);
     padding: 2rem;
     border-radius: 1rem;
     box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
