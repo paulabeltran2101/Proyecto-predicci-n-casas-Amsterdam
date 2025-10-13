@@ -98,6 +98,8 @@ La aplicación solicita los siguientes datos del usuario:
   
 y muestra una predicción del **precio estimado en euros (€)**.
 
+- Enlace para ver la aplicación en funcionamiento ➡️ <a href="https://paulabeltran2101-proyecto-prediccion-casas-amsterdam.streamlit.app" target="_blank">Link a Streamlit Cloud</a>
+
 ---
 
 ### 📊 Ejemplo de uso
